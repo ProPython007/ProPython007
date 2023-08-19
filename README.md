@@ -52,19 +52,19 @@
   <a href="https://www.linkedin.com/in/sayankarmakar007/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="64" height="64" alt="linkedin logo"  />
   </a>
-  <img width="12" />
+  <img width="32" />
   <a href="https://www.freelancer.com/u/propython007/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/freelancer/freelancer-icon.svg" width="64" height="64" alt="freelancer logo"  />
   </a>
-  <img width="12" />
+  <img width="32" />
   <a href="https://twitter.com/propython007" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="64" height="64" alt="twitter logo"  />
   </a>
-  <img width="12" />
+  <img width="32" />
   <a href="https://youtube.com/@ProPython" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="64" height="64" alt="youtube logo"  />
   </a>
-  <img width="12" />
+  <img width="32" />
   <a href="https://www.instagram.com/diode002/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="64" height="64" alt="instagram logo"  />
   </a>
