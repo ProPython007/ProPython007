@@ -6,14 +6,6 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">I am good at anything pythonic:<br><br>Core Programming Concepts:<br>-> Python Programming<br>-> C Programming<br>-> OOP Concepts<br>-> DSA Basics<br><br>Web Development:<br>-> Django/REST API<br>-> HTML<br>-> CSS<br>-> JS<br><br>Machine Learning & Data Analysis:<br>-> Regression Implementation<br>-> NN Implementation<br>-> Scikit-Learn<br>-> Pandas<br>-> Numpy<br><br>Web Scraping:<br>-> Requests<br>-> BeautifulSoup<br><br>These are my practicing techs.</p>
-
-###
-
 <h2 align="left">I code with</h2>
 
 ###
@@ -69,5 +61,13 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="64" height="64" alt="instagram logo"  />
   </a>
 </div>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">I am good at anything pythonic:<br><br>Core Programming Concepts:<br>-> Python Programming<br>-> C Programming<br>-> OOP Concepts<br>-> DSA Basics<br><br>Web Development:<br>-> Django/REST API<br>-> HTML<br>-> CSS<br>-> JS<br><br>Machine Learning & Data Analysis:<br>-> Regression Implementation<br>-> NN Implementation<br>-> Scikit-Learn<br>-> Pandas<br>-> Numpy<br><br>Web Scraping:<br>-> Requests<br>-> BeautifulSoup<br><br>These are my practicing techs.</p>
 
 ###
