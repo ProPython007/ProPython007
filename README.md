@@ -68,6 +68,6 @@
 
 ###
 
-<p align="left">I am good at anything pythonic:<br><br>Core Programming Concepts:<br>-> Python Programming<br>-> C Programming<br>-> OOP Concepts<br>-> DSA Basics<br><br>Web Development:<br>-> Django/REST API<br>-> HTML<br>-> CSS<br>-> JS<br><br>Machine Learning & Data Analysis:<br>-> Regression Implementation<br>-> NN Implementation<br>-> Scikit-Learn<br>-> Pandas<br>-> Numpy<br><br>Web Scraping:<br>-> Requests<br>-> BeautifulSoup<br><br>These are my practicing techs.</p>
+<p align="left">A beginner who knows merely 1% of coding...</p>
 
 ###
